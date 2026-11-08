@@ -4,7 +4,7 @@
 
 ---
 
-## 📌 সূচীপত্র
+## সূচীপত্র
 
 ### ১. রঙের খেলায় স্বাগতম
 - **১.১ ডমিনো ও তার ভাই-ব্রাদার**
@@ -28,7 +28,7 @@
 
 ---
 
-## 🛠️ Compilation Guide
+## Compilation Guide
 
 এই ডকুমেন্টটি বাংলায় লেখার জন্য `latexbangla` প্যাকেজ এবং ফন্ট রেন্ডারিংয়ের জন্য **XeLaTeX** ইঞ্জিন ব্যবহার করা হয়েছে।
 
@@ -44,7 +44,7 @@ xelatex main.tex
 
 ---
 
-## 📚 References
+## References
 
 - **Yufei Zhao** — *Tiling: Coloring and Weights*, MOP 2007
 - **Matthew Brennan** — *Grids and Related Problems*, Canadian IMO Training 2018
